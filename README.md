@@ -67,6 +67,16 @@ These worlds were chosen specifically to highlight **cross-genre interpretation*
 
 The goal of this repository is to **validate the core idea** of cross-world asset embodiment and provide a launch point for deeper research and development.
 
+## YouTube Presentation
+
+A short presentation and conceptual demo explaining the motivation, architecture, and hackathon prototype can be found here:
+
+🎥 **World Asset Engine – Hackathon Presentation**  
+https://youtu.be/EiWCyFoWdyk
+
+This presentation reflects the **conceptual and exploratory state** of the project during the Node Engine Hackathon.
+
+
 ## Vision
 
 Long-term, the World Asset Engine aims to enable:
